@@ -1,2 +1,2 @@
-# ITCS6160-Lab-2
-ITCS 6160/Database Systems Lab 2: myguitarshop 2
+# ITCS6160-Lab-5
+ITCS 6160/Database Systems Lab 5: myguitarshop 2
